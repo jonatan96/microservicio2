@@ -1,0 +1,9 @@
+{
+    "obtenerLibros": {
+        "method": "GET",
+        "url": "http://localhost:3000/biblioteca/libro/dinamic?nombre=",
+        "headers": {},
+        "data":{},
+        "json":true
+    }
+}
